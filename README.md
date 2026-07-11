@@ -1,9 +1,9 @@
-# 🇦🇪 DubaiJobs.ae — 100,000 Job Portal
+# 🇬🇧 UKNOVA.co.uk — 100,000 Job Portal
 
 ## Features
 - ✅ 100,000 unique job pages (`/jobs/1` → `/jobs/100000`)
 - ✅ JSON-LD JobPosting schema on every job page
-- ✅ 50% Remote jobs, 50% On-site jobs across all 7 Emirates
+- ✅ 50% Remote jobs, 50% On-site jobs across all 4 nations
 - ✅ XML Sitemaps (100 sitemap files)
 - ✅ robots.txt
 - ✅ Pagination (20 jobs/page)
@@ -11,6 +11,12 @@
 - ✅ REST API
 - ✅ Zero database — all data generated deterministically
 - ✅ Gzip compression — fast on Railway free tier
+
+## Companies
+150+ companies including:
+Netflix, YouTube, Delta Airlines, Tesla, Apple, Amazon, Google, Disney,
+United Airlines, Starbucks, Walmart, American Express, Shopify, GitHub,
+Salesforce, Slack, Indeed, Cloudflare, and many more!
 
 ## Deploy to Railway
 1. Push to GitHub or upload zip
