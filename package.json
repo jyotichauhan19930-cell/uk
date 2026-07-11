@@ -1,7 +1,7 @@
 {
-  "name": "dubai-jobs-portal",
+  "name": "uk-jobs-portal",
   "version": "1.0.0",
-  "description": "Dubai Jobs Portal - 100,000 Job Listings | UAE",
+  "description": "UK Jobs Portal - 100,000 Job Listings | United Kingdom",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
