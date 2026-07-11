@@ -16,29 +16,29 @@ const AD_TOP = `
 <div style="text-align:center; width:100%; padding:10px 0; background:#fff; border-bottom:1px solid #eee;">
   <script>
     atOptions = {
-      'key' : '72b6f3ac3fc2f43722e5f2196ef85add',
+      'key' : 'fde80bd6fab284a10149c1a9c76f7e60',
       'format' : 'iframe',
       'height' : 90,
       'width' : 728,
       'params' : {}
     };
   <\/script>
-  <script src="https://www.highperformanceformat.com/72b6f3ac3fc2f43722e5f2196ef85add/invoke.js"><\/script>
+  <script src="https://www.highperformanceformat.com/fde80bd6fab284a10149c1a9c76f7e60/invoke.js"><\/script>
 </div>
 `;
 
 const AD_MIDDLE = `
 <div style="text-align:center; width:100%; padding:10px 0; background:#fff; margin:20px 0; border:1px solid #eee; border-radius:8px;">
   <script>
-    atOptions = {
-      'key' : '72b6f3ac3fc2f43722e5f2196ef85add',
-      'format' : 'iframe',
-      'height' : 90,
-      'width' : 728,
-      'params' : {}
-    };
-  <\/script>
-  <script src="https://www.highperformanceformat.com/72b6f3ac3fc2f43722e5f2196ef85add/invoke.js"><\/script>
+  atOptions = {
+    'key' : '0a693505b60305927fd514d5484e660a',
+    'format' : 'iframe',
+    'height' : 60,
+    'width' : 468,
+    'params' : {}
+  };
+</script>
+<script src="https://www.highperformanceformat.com/0a693505b60305927fd514d5484e660a/invoke.js"></script>
 </div>
 `;
 
@@ -46,14 +46,14 @@ const AD_BOTTOM = `
 <div style="text-align:center; width:100%; padding:10px 0; background:#fff; border-top:1px solid #eee; margin-top:20px;">
   <script>
     atOptions = {
-      'key' : '72b6f3ac3fc2f43722e5f2196ef85add',
+      'key' : 'fde80bd6fab284a10149c1a9c76f7e60',
       'format' : 'iframe',
       'height' : 90,
       'width' : 728,
       'params' : {}
     };
   <\/script>
-  <script src="https://www.highperformanceformat.com/72b6f3ac3fc2f43722e5f2196ef85add/invoke.js"><\/script>
+  <script src="https://www.highperformanceformat.com/fde80bd6fab284a10149c1a9c76f7e60/invoke.js"><\/script>
 </div>
 `;
 
